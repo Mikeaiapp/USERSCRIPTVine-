@@ -21,7 +21,7 @@ If using Tampermonkey v5.2+ on Chromium or Mobile Browsers (Lemur/Mises):
 3. Under Security, set Content Script API to UserScripts API Dynamic.
 4. Under Downloads, set Download Mode to Browser.
 🔔 Discord Webhook Setup
-The script comes pre-configured with your webhook URL: https://discord.com/api/webhooks/1528709970349133966/qD60yaXLteemofWpZ01AiM5Dr-a4A0_Sz6Cn8tqUVdQQPgPXs988WprtaaIMh51z6OAi
+5. ADD your Discord webhook URL: 
 To change or update your webhook URL at any time:
 1. Open any Amazon Vine page (/vine/vine-items).
 2. Paste your new Discord Webhook URL into the Discord Webhook URL input box on the top toolbar.
