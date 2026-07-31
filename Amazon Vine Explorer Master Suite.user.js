@@ -24,7 +24,7 @@
  // =========================================================
  // 1. CONFIGURATION & STATE ENGINE
  // =========================================================
- var DEFAULT_DISCORD_WEBHOOK = 'https://discord.com/api/webhooks/1528709970349133966/qD60yaXLteemofWpZ01AiM5Dr-a4A0_Sz6Cn8tqUVdQQPgPXs988WprtaaIMh51z6OAi';
+ var DEFAULT_DISCORD_WEBHOOK = 'ADD DISCORD WEBHOOK';
 
  var CONFIG = {
    dbName: 'AVE_Database_v5',
